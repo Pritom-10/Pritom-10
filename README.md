@@ -29,7 +29,7 @@
 </a>
 </div>
 <hr/>
-<img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
+<img align="right" height="250" width="365" alt="" src="[./gifs/10_coding_dribbble.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh5bmg4ZWczbXBnZzJsM2Y1cHZ2a3c5dXcycXJyZ2YyaGJ6bm54MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/icPn4EwqNpAsZQmInZ/giphy.gif)" />
 
 ### Talking about Personal Stuff:
 
