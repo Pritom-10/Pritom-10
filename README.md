@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Nur-Adnan&style=for-the-badge)
 
-<img align=”right” alt=”Coding” width=”400” src="./nur_adnan.png"/>
+<img align=”right” alt=”Coding” width=”400” src="./pritom.pmg"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
