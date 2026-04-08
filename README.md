@@ -29,7 +29,7 @@
 </a>
 </div>
 <hr/>
-![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh5bmg4ZWczbXBnZzJsM2Y1cHZ2a3c5dXcycXJyZ2YyaGJ6bm54MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/icPn4EwqNpAsZQmInZ/giphy.gif)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE4MzVmaDM3b2g4ZjRwNHpiN3l1NDhhN2xmbDdnOTBudXF4N3pqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/icPn4EwqNpAsZQmInZ/giphy.gif" width="400"/>
 
 ### Talking about Personal Stuff:
 
