@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <strong>Full Stack Web Engineer 👋 | Expert in JavaScript, React.js, React Native, Next.js, Redux, TypeScript, Node.js, Express.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB & PostgreSQL 🌍 | Blockchain Enthusiast & IEEE Researcher 💡</strong>
+  <strong>Front-end Web Engineer 👋 | Expert in JavaScript, React.js, React Native, Next.js, Node.js, Express.js | Crafting High-Performance Microservices 💡</strong>
 </div>
 <br/>
 <div align="center">
@@ -26,9 +26,9 @@
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with <strong>JS, TS, React, Node, Express MongoDB, SQL & AWS.</strong>
-- 🚀 &nbsp; I’m currently exploring <strong>Golang, Blockchain, Rust, Solidity, Solana.</strong>
-- 📫 &nbsp; Reach me out: <strong>nuradnanchowdhury015@gmail.com.</strong>
+- 🛠 &nbsp; I’m currently working with <strong>JS, TS, React, Next.js & Node.</strong>
+- 🚀 &nbsp; I’m currently exploring <strong>Mongodb & MySQL.</strong>
+- 📫 &nbsp; Reach me out: <strong>pritomshiro@gmail.com</strong>
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
@@ -43,34 +43,30 @@
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
 </div>
 
 <br/>
 
 ```javascript
-const nurAdnan = {
+const pbsPritom = {
   pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "Redux", "Next", "Node.js", "Styled-Components", "Jest", "Docker", "Kubernetes"],
+  code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Next", "Node.js", "Styled-Components"],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-    coorganizer: "East-West-University",
+    coorganizer: "BGC Trust University Bangladesh",
     speaker: "English",
     mentor: "Web Developer"
   },
-  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on React and JavaScript"
 }
 ```
 
