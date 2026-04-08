@@ -16,9 +16,6 @@
 </div>
 <br/>
 <div align="center">
-  <!-- <a href="linkedin.com/in/pritom-barua-shiro"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="pritom-personal-portfolio.netlify.app"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a>
-  <a href="mailto:pritomshiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a> -->
   <a href="https://linkedin.com/in/pritom-barua-shiro">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -62,6 +59,7 @@
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="Linkedin" height="25" src="images/linkedin.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
 </div>
